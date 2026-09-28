@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ANUP Digital</string>
+    <string name="tagline">Sarkari Form Apply Center</string>
+    <string name="secondary_tagline">Rozmarra ke digital kaam — ek hi app se</string>
+    <string name="search_placeholder">आपको कौन-सा काम करना है? Search करें...</string>
+    <string name="search_hint_en">Search any service, form or portal...</string>
+    <string name="home">होम</string>
+    <string name="categories">श्रेणियाँ</string>
+    <string name="search">खोजें</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="open_official">Official Website खोलें</string>
+    <string name="share">शेयर करें</string>
+    <string name="safety_note">केवल official website पर ही personal information और OTP दर्ज करें।</string>
+    <string name="security_warning">महत्वपूर्ण: ANUP Digital किसी सरकारी विभाग का official app नहीं है। सरकारी सेवाओं के लिए संबंधित विभाग की official website पर ही आवेदन करें।</string>
+    <string name="otp_warning">OTP, PIN, password, bank details या अन्य sensitive information किसी अनजान व्यक्ति के साथ साझा न करें।</string>
+    <string name="footer_text">ANUP Digital – Sarkari Form Apply Center</string>
+    <string name="admin_panel">एडमिन पैनल</string>
+</resources>

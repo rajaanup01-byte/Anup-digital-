@@ -1,0 +1,6 @@
+{
+  "name": "ANUP Digital",
+  "description": "Sarkari Form Apply Center & Digital Service Center for Bihar and all-India government schemes, jobs, admit cards, certificates, and document portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
